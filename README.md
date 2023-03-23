@@ -5,7 +5,7 @@ paso para ejecutar proyecto:
 1. Clonar repositorio
 2. Ejecutar ```nmp installs``` para construir los modulos de node
 3. correr el devSerever ```nmp run dev ```
-4. Abrir proyecto en: ```localhot```
+4. Abrir proyecto en: ```localhost```
 
 ## Producción
 
